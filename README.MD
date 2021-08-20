@@ -36,6 +36,68 @@ Underline 2
 - [Esto es un link en Markdown](http://google.com)
 - [Esto es un link al index](index.html)
 
+# Imagenes
+![Logo Github](https://image.flaticon.com/icons/svg/25/25231.svg)
+
+# Code Snippets ``` ```
+Codigo en JSON
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi   | Burgos   | 23123     |
+| Pedro  | Tompson  | 213132    |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+
+> Esto es una cita.
+
+Esto es otro texto que no pertenece a la cita anterior.
+
+> Esto es otra cita
+
+# Líneas Divisorias
+
+Todo es un texto que será dividido.
+
+---
+
+Esto es otro texto dividido
+
+***
+
+Esto es otro texto divido
+
+___
+
+# Saltos de línea usar un espacio de enter entre textos
+
+Esto es nuesto primer parrafo
+
+Nuestro segundo parrafo
+
+Tercer parrafo
+
+
+
+
+
+
 
 
 
